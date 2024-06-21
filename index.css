@@ -1,0 +1,66 @@
+
+body {
+    font-family: Karla, Arial, Helvetica, sans-serif;
+    background: #1C1C1C;
+    color: white;
+}
+
+.container {
+    margin: 64px auto;
+    background-color: #1F2937;
+    width: 510px;
+    padding: 52px;
+    text-align: left;
+    align-self: center;
+}
+
+h1 {
+    font-weight: 800;
+}
+
+span {
+    color: #4ADF86;
+}
+
+button {
+    margin-top: 35px;
+    padding: 9px 15px;
+    background-color: #10B981;
+    color: white;
+    border-radius: 6px;
+    border: none;
+}
+
+hr {
+    margin-top: 35px;
+    background-color: #2F3E53;
+    height: 1px;
+    border: 0;
+}
+
+.password-container {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.password {
+    height: 39px;
+    width: 250px;
+    border-radius: 6px;
+    background: #273549;
+    color: #55F991;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pass-length-container {
+    margin-top: 50px;
+}
+
+.pass-length {
+    height: 29px;
+    width: 50px;
+    border-radius: 6px;
+}
